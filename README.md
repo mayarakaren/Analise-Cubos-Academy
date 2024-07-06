@@ -4,6 +4,8 @@
 
 Este projeto envolve a análise de dados de marketing digital coletados de várias plataformas de publicidade online. O objetivo é fornecer insights sobre o custo por lead (CPL), investimentos em campanhas, impressões, sessões, e leads gerados ao longo do tempo. A análise é dividida em várias dimensões, como veículo de marketing, categoria de campanha e períodos de tempo específicos.
 
+![Análise](painel.png)
+
 #### Estrutura do Dataset
 
 O dataset contém as seguintes colunas:
@@ -27,7 +29,7 @@ O dataset contém as seguintes colunas:
 
 2. **Soma de Investimento por Ano e Mês**: Mostra a soma dos investimentos feitos em campanhas de marketing digital ao longo do tempo.
 
-3. **Soma de m�s por Ano e Mês**: Apresenta a soma do mês ao longo dos anos e meses, útil para visualizar a distribuição mensal dos dados.
+3. **Soma de mês por Ano e Mês**: Apresenta a soma do mês ao longo dos anos e meses, útil para visualizar a distribuição mensal dos dados.
 
 4. **Soma de CPL por Ano, Mês e Dia**: Este gráfico detalha a soma do custo por lead por ano, mês e dia, fornecendo uma visão granular da variação diária.
 
